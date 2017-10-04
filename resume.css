@@ -1,2 +1,29 @@
-/* Optional theme */
-@import url('https://bootswatch.com/solar/bootstrap.min.css')
+@import url('https://bootswatch.com/solar/bootstrap.min.css');
+
+h1 {
+    font-size: 70px;
+    color: green;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    font-size: 60px;
+    color: #ADA596;
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-size: 40px;
+    color: #817A6D;
+    display: flex;
+    justify-content: center;
+}
+li {
+    font-size: 20px;
+    color: #0C0801;
+    display: flex;
+    justify-content: center;
+}
+
+
+
